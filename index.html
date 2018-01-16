@@ -12,14 +12,19 @@
         <section>
             <div class="overall-ppl">
                     <label>Overall People:</label>
-                    <input type="number">
+                    <input type="number" name="overall-ppl" min="2">
             </div>
             <div class="grp-type">
+                <p>Order groups by:</p>
+                <label>number of groups</label>
+                <input type="radio" name="ordergrps" id="nmbrofgrps">
+                <p>or</p>
+                <label>people per group</label>
+                <input type="radio" name="ordergrps" id="pplpergrp">
                     <div class="number-of-grps">
                             <label>Number of groups:</label>
                             <input type="number">
                     </div>
-                    <p>or</p>
                     <div class="ppl-per-grp">
                             <label>People per group:</label>
                             <input type="number">

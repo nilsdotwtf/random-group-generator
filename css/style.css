@@ -1,3 +1,31 @@
 body {
     margin: 0;
 }
+
+.number-of-grps {
+    display: none;
+}
+
+.ppl-per-grp {
+    display: none;
+}
+
+.grp-type {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.grp-type p {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.grp-type p:first-child {
+    display: block;
+    margin: 10px 0;
+}
+
+.grp-type label {
+    padding: 4px;
+    border: 1px solid black;
+}
