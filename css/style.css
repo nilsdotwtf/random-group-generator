@@ -3,11 +3,11 @@ body {
 }
 
 .number-of-grps {
-    display: none;
+    margin-top: 15px;
 }
 
 .ppl-per-grp {
-    display: none;
+    margin-top: 15px;
 }
 
 .grp-type {
