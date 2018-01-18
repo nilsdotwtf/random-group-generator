@@ -1,4 +1,2 @@
 # random-group-generator
 I was sitting in classroom and we were going on for a new project work. It's okay but there is something with the groups: You want to choose your friends but the teachers don't want this. You dont want to count the classroom and split by this every time.. yeah things like this. So I want to have a easy application to handle this. Now I'm doing this.
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#FFFFFF&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1gTVLP8rhdf9S6lporPg9PvxMD3zVXObb&amp;export=download&quot;}"></div>
-<script type="text/javascript" src="https://www.draw.io/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gTVLP8rhdf9S6lporPg9PvxMD3zVXObb%26export%3Ddownload"></script>
