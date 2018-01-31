@@ -23,14 +23,16 @@
                 <input type="radio" name="ordergrps" id="pplpergrp" onclick="checkradio()">
                     <div class="number-of-grps">
                             <label>Number of groups:</label>
-                            <input type="number">
+                            <input type="number" name="numbergrps" min="2" onchange="groups()">
                     </div>
                     <div class="ppl-per-grp">
                             <label>People per group:</label>
-                            <input type="number">
+                            <input type="number" name="pplgrps" min="2" onchange="groups()">
                     </div>
             </div>
+            <p class="output"></p>
         </section>
     </body>
     <script src="js/basic-function.js"></script>
+    <script src="js/group-function.js"></script>
 </html>
